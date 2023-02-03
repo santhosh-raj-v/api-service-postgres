@@ -1,0 +1,1 @@
+INSERT INTO products(name, description) VALUES ('azus ROG Strix', 'G 17 gaming laptop');
